@@ -1,0 +1,22 @@
+{
+  "name": "libraryapp",
+  "version": "1.0.0",
+  "description": "Library Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library",
+    "management",
+    "lib"
+  ],
+  "author": "Jitto Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^3.0.0",
+    "ejs": "^2.7.3",
+    "express": "^4.17.1"
+  }
+}
